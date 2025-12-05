@@ -24,7 +24,7 @@ Observability: Integrated Grafana and Prometheus into a cloud application stack 
 
     Azure Administrator Associate , Microsoft Azure Fundamentals  (AZ-104, 900) AWS Cloud Practioner ☁️
     CompTIA A+| CompTIA Network+ | CompTIA Cloud+ | CompTIA Sec+ 
-    **Attempted OSCP 60/100 working on retake. 
+    
 
 🛠️ My Tech Stack
 Cloud & Infrastructure:
